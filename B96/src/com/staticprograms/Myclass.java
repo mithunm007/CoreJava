@@ -12,7 +12,7 @@ public class Myclass {
 
 	public Myclass() {
 		super();
-		System.out.println("-----default constructor-------");
+		System.out.println("---default constructor-------");
 	}
 	
 	static void display() {
