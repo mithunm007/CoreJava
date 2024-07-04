@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Demo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter akash salary:");
 		double akashsal=sc.nextDouble();
@@ -17,6 +17,7 @@ public class Demo {
 		ob.display();
 		System.out.println("Hitesha salary is:");
 		ob1.display();
+		sc.close();
 
 
 	}
