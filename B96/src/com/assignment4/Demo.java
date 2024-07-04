@@ -1,3 +1,4 @@
+// demonstration of abstract classes 
 package com.assignment4;
 
 public class Demo {
