@@ -9,19 +9,12 @@ public class Akash extends TaxPayer {
 
 	@Override
 	public double calTax() {
-		if (salary>=500000) {
-			return salary*0.10;
+		if (salary >= 500000) {
+			return salary * 0.10;
+		} else {
+			return salary * 0.20;
 		}
-		else {
-			return salary*0.20;
-		}
-		
+
 	}
-	
-
-
-
-	
-	
 
 }

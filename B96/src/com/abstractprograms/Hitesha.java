@@ -1,6 +1,6 @@
 package com.abstractprograms;
 
-public class Hitesha extends TaxPayer{
+public class Hitesha extends TaxPayer {
 
 	public Hitesha(double salary) {
 		super(salary);
@@ -10,9 +10,7 @@ public class Hitesha extends TaxPayer{
 	@Override
 	public double calTax() {
 		// TODO Auto-generated method stub
-		return salary*0.15;
+		return salary * 0.15;
 	}
-	
-	
 
 }
