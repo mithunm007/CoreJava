@@ -21,7 +21,7 @@ public class ArrayListDemo {
 		ArrayList <String>ob=new ArrayList<String>();
 		ob.add("mithun");
 		ob.add("Bangalore person");
-		System.out.println("the elemnts are :"+ob);
+		sSystem.out.println("the elemnts are :"+ob);
 		Collections.sort(ob);
 		System.out.println("the elemnts are :"+ob);
 		
