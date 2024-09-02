@@ -11,7 +11,7 @@ public class Employee {
 		// displaying the details
 		
 		void show() {
-			System.out.println("Name:"+Name+"\t Id:"+empid+ "\t Salary:"+Salary);
+			System.out.println("Name:"+Name+"\t Id:"+Empid+ "\t Salary:"+Salary);
 		}
 		
 		//getters and setters
